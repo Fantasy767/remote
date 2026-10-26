@@ -1,0 +1,39 @@
+flight\list.o: ..\freertos\list.c
+flight\list.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdlib.h
+flight\list.o: ../freertos/include/FreeRTOS.h
+flight\list.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stddef.h
+flight\list.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdint.h
+flight\list.o: ../freertos/FreeRTOSConfig.h
+flight\list.o: ../freertos/include/projdefs.h
+flight\list.o: ../freertos/include/portable.h
+flight\list.o: ../freertos/include/deprecated_definitions.h
+flight\list.o: ../freertos/poarable/portmacro.h
+flight\list.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+flight\list.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+flight\list.o: ../Drivers/CMSIS/Include/core_cm3.h
+flight\list.o: ../Drivers/CMSIS/Include/cmsis_version.h
+flight\list.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+flight\list.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+flight\list.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flight\list.o: ../Core/Inc/stm32f1xx_hal_conf.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+flight\list.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+flight\list.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+flight\list.o: ../freertos/include/mpu_wrappers.h
+flight\list.o: ../freertos/include/list.h

@@ -1,0 +1,42 @@
+flight\event_groups.o: ..\freertos\event_groups.c
+flight\event_groups.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdlib.h
+flight\event_groups.o: ../freertos/include/FreeRTOS.h
+flight\event_groups.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stddef.h
+flight\event_groups.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdint.h
+flight\event_groups.o: ../freertos/FreeRTOSConfig.h
+flight\event_groups.o: ../freertos/include/projdefs.h
+flight\event_groups.o: ../freertos/include/portable.h
+flight\event_groups.o: ../freertos/include/deprecated_definitions.h
+flight\event_groups.o: ../freertos/poarable/portmacro.h
+flight\event_groups.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+flight\event_groups.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+flight\event_groups.o: ../Drivers/CMSIS/Include/core_cm3.h
+flight\event_groups.o: ../Drivers/CMSIS/Include/cmsis_version.h
+flight\event_groups.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+flight\event_groups.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+flight\event_groups.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flight\event_groups.o: ../Core/Inc/stm32f1xx_hal_conf.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+flight\event_groups.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+flight\event_groups.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+flight\event_groups.o: ../freertos/include/mpu_wrappers.h
+flight\event_groups.o: ../freertos/include/task.h
+flight\event_groups.o: ../freertos/include/list.h
+flight\event_groups.o: ../freertos/include/timers.h
+flight\event_groups.o: ../freertos/include/event_groups.h

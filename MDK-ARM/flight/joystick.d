@@ -1,0 +1,33 @@
+flight\joystick.o: interface\joystick.c
+flight\joystick.o: interface\joystick.h
+flight\joystick.o: ../Core/Inc/adc.h
+flight\joystick.o: ../Core/Inc/main.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flight\joystick.o: ../Core/Inc/stm32f1xx_hal_conf.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+flight\joystick.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+flight\joystick.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+flight\joystick.o: ../Drivers/CMSIS/Include/core_cm3.h
+flight\joystick.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdint.h
+flight\joystick.o: ../Drivers/CMSIS/Include/cmsis_version.h
+flight\joystick.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+flight\joystick.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+flight\joystick.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+flight\joystick.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stddef.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+flight\joystick.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h

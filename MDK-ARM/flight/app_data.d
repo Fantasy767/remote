@@ -1,0 +1,53 @@
+flight\app_data.o: appliaction\app_data.c
+flight\app_data.o: appliaction\app_data.h
+flight\app_data.o: ./interface/key.h
+flight\app_data.o: ../Core/Inc/main.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flight\app_data.o: ../Core/Inc/stm32f1xx_hal_conf.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+flight\app_data.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+flight\app_data.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+flight\app_data.o: ../Drivers/CMSIS/Include/core_cm3.h
+flight\app_data.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdint.h
+flight\app_data.o: ../Drivers/CMSIS/Include/cmsis_version.h
+flight\app_data.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+flight\app_data.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+flight\app_data.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+flight\app_data.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stddef.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h
+flight\app_data.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+flight\app_data.o: ../freertos/include/FreeRTOS.h
+flight\app_data.o: ../freertos/FreeRTOSConfig.h
+flight\app_data.o: ../freertos/include/projdefs.h
+flight\app_data.o: ../freertos/include/portable.h
+flight\app_data.o: ../freertos/include/deprecated_definitions.h
+flight\app_data.o: ../freertos/poarable/portmacro.h
+flight\app_data.o: ../freertos/include/mpu_wrappers.h
+flight\app_data.o: ../freertos/include/task.h
+flight\app_data.o: ../freertos/include/list.h
+flight\app_data.o: ./interface/joystick.h
+flight\app_data.o: ../Core/Inc/adc.h
+flight\app_data.o: appliaction\app_freertos_task.h
+flight\app_data.o: ../commet/comment.h
+flight\app_data.o: ../Core/Inc/usart.h
+flight\app_data.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdio.h
+flight\app_data.o: D:\AAAAA -----keil 5\ARM\ARMCC\Bin\..\include\stdarg.h
+flight\app_data.o: ./interface/tp4336.h
+flight\app_data.o: ./interface/SI24R1.h
+flight\app_data.o: ../Core/Inc/spi.h
+flight\app_data.o: appliaction\app_transmit.h
